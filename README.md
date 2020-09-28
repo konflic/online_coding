@@ -1,4 +1,4 @@
-# Online coding resources list
+# Сборник ресурсов на которых можно покодить онлайн
 
 https://codesignal.com
 
